@@ -1,7 +1,5 @@
 'use strict'
 
-const _ = require('lodash');
-
 const client = require('rotonde-client/node/rotonde-client')('ws://127.0.0.1:4224');
 
 client.onReady(() => {
