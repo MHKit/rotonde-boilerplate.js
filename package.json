@@ -1,0 +1,22 @@
+{
+  "name": "rotonde-boilerplate.js",
+  "version": "1.0.0",
+  "description": "A rotonde boilerplate to create new javascript + hardware projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackerLoop/rotonde-boilerplate.js.git"
+  },
+  "author": "Squirelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackerLoop/rotonde-boilerplate.js/issues"
+  },
+  "homepage": "https://github.com/HackerLoop/rotonde-boilerplate.js#readme",
+  "dependencies": {
+    "rotonde-client": "hackerloop/rotonde-client.js"
+  }
+}
